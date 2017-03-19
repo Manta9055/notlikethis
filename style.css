@@ -1,0 +1,52 @@
+    div {
+      width: 800px;
+      padding-left: 17%;
+    }
+
+    span[class="name"]{
+      font-weight: bold;
+    }
+
+    span[class="zdroj"]{
+      font-weight: bold;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 72px;
+      font-family: cursive;
+      font-weight: bold;
+    }
+
+    h2 {
+      text-align: left;
+      padding-left: 50px;
+      font-family: cursive;
+      font-size: 36px;
+    }
+
+    p[class="zanr"]{
+      color: white;
+    }
+
+    p[class="autor"]{
+      text-align: center;
+    }
+
+    p[class="zdroj"]{
+      text-align: center;
+      padding-bottom: 20px;
+    }
+
+    p{
+      text-align: justify;
+      font-family: Palatino;
+      font-size: 18px;
+    }
+
+    section[id="uvod"] {
+      width: 700px;
+      padding-left: 50px;
+      padding-right: 50px;
+      text-align: center;
+    }
