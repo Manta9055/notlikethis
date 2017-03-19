@@ -1,0 +1,45 @@
+.css-preview-wrapper {
+  padding: 10px;
+  border: solid;
+  background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/gplaypattern.png');
+}
+
+p { 
+  color: black; 
+  text-align: justify;
+  font-size: 20px; 
+}
+
+h3 {
+	color: red;
+	text-align: center;
+	font-size: 72px;
+	text-decoration: underline;
+}
+
+h4 {
+	color: blue;
+	text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+	font-size: 56px;
+}
+blockquote {
+	color: black;
+    border: solid;
+  	border-color: darkred;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: justify;
+	font-weight: lighter;
+}
+
+ul {
+	font-size: 24px;
+  	padding: 3px;
+  	text-align: justify;
+}
+
+li {
+	padding: 12px;
+}
